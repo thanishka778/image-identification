@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190521/pngtree-abstract-digital-light-blue-background-image_113947.jpg);
+    background-size: cover;
+}
+
+.heading{
+    font-size: 35px;
+    font-variant: small-caps;
+    
+    color: white;
+    height: 40px;
+    width: 50%;
+}
+
+.name_of_objects{
+    font-size: 20px;
+    color: white;
+    font-family: inherit;
+}
+
+#camera, #result{
+    height: 300px;
+    width: 300px;
+    border: 2px dashed;
+    border-color: white;
+}
+
+.h2{
+    color: white;
+}
